@@ -11,7 +11,7 @@ body {
 }
 
 #chatLog {
-  height: 250px;
+  height: 400px;
   overflow-y: scroll;
   border: 2px solid #555;
   background-color: #1f1f1f;
@@ -79,4 +79,9 @@ body {
   #submitBtn {
     width: 100%;
   }
+
+  .own-message {
+    background-color: #333;
+  }
+  
 }
